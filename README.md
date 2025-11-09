@@ -23,11 +23,9 @@ This project is an open source project under the MIT license.
 - Seat selection and booking confirmation
 - Managing flights, airlines, and reservations
 
-## Tech Stack (Planned)
-- **Frontend:** HTML/CSS
-- **Backend:** Java 
-- **Database:** MySQL 
-- **Version Control:** GitHub
+## Requirements
+- Internet connection
+- i3 CPU
 
 ## Team
 | Name | Role | Tasks |
